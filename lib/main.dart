@@ -17,6 +17,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: const DarsPage5(),
+      //! Uyga vazifani ishlatmoqchi busela DarsPage5 ni orniga 
+      //!  home: const BeshinchiDars(), ni ishlatasila
       debugShowCheckedModeBanner: false,
     );
   }
